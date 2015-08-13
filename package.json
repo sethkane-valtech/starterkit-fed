@@ -1,0 +1,36 @@
+{
+  "name": "Valtech-Starter-Kit",
+  "version": "0.0.1",
+  "description": "Front End Starter Kit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sethkane_valtech@bitbucket.org/valtechny/starterkit.git"
+  },
+  "author": "Seth Kane <seth.kane@valtech.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/valtechny/starterkit#readme",
+  "devDependencies": {
+    "backbone": "^1.2.1",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-size": "^1.2.3",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "jquery": "^2.1.4",
+    "jshint-stylish": "^2.0.1",
+    "node-sass": "^3.2.0",
+    "run-sequence": "^1.1.2",
+    "underscore": "^1.8.3"
+  }
+}
